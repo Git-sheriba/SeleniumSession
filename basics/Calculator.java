@@ -6,7 +6,7 @@ public class Calculator {
 	// this program explains the usage of the arguments and the return values
 	// STATIC : we dont have to craete an object for this
 	
-	 String str = " calculator";
+	 static String str = " calculator";
 	
 	public static void add() {
 		int x = 10, y = 12;

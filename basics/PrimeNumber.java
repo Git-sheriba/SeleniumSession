@@ -22,7 +22,7 @@ public class PrimeNumber {
 				System.out.println(j + "is not a prime number");
 			System.out.println(" count :" + count);
 		}
-		ArrayUtils
+		//ArrayUtils
 
 	}
 }
